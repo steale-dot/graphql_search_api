@@ -1,18 +1,6 @@
 {
-    "name": "steale/graphql_search_api",
-    "require": {
-        "drupal/core": "^10",
-        "php": ">=8"
-    },
-    "autoload": {
-        "psr-4": {
-            "Steale\\GraphqlSearchApi\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "steale",
-            "email": "inbox@stemberger.ch"
-        }
-    ]
+  "name": "drupal/graphql_search_api",
+  "type": "drupal-module",
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev"
 }
